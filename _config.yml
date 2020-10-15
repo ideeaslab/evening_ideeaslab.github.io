@@ -3,7 +3,7 @@ title:               IDEEAS Lab
 tagline:             'IDEEAS Lab tagline'
 description:         'IDEEAS Lab description'
 url:                 http://ideeaslab.github.io
-baseurl:             ''
+baseurl:             http://ideeaslab.github.io/ideeaslab.github.io/
 paginate:            5
 permalink:           pretty
 
