@@ -3,7 +3,7 @@ title:               IDEEAS Title gh
 tagline:             'IDEEAS Tagline gh'
 description:         'IDEEAS Description gh'
 url:                 http://ideeaslab.github.io
-baseurl:             ''
+baseurl:             http://ideeaslab.github.io/ideeaslab.github.io/
 gems:                [jekyll-paginate, jekyll-gist]
 paginate:            5
 permalink:           pretty
